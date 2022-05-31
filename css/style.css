@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+}
+
+.container{
+    width: 50%;
+    height: 30vh;
+    margin-left:25%;
+    border: 1px solid black;
+}
+
+.titulo{
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.operacoes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
